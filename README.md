@@ -1,4 +1,4 @@
-# nike
+# https://xubunter.github.io/nike/
 
 ## Project setup
 ```
